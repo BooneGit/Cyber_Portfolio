@@ -25,7 +25,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ** What is the Cyber Academy?
 > Based at an advanced cyber training facility, the Cyber Academy provides students with hands-on experiences and the skills they need to start a cybersecurity career. Students can begin >and finish the program in 11 months, preparing them to start a new career in just one year!
 
-### Header 3
+## Academy Course Include: 
+*
+* Cloud Computing
+* IT Support
+* Networking
+* Customer Support
+* Linux
+* Disaster Recovery and Business Continuity
+* Ethical Hacking
+  
+  
 
 ```js
 // Javascript code with syntax highlighting.
