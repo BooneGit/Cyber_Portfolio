@@ -10,15 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Certifications
+*   CompTIA Security+
+*   CompTIA Linux+
+*   CompTIA Network+  
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Education
+** Cyber Academy Accelerated Associate of Applied Science (AAS)**
+> The Associate of Applied Science in Cybersecurity is offered at locations across the state of Indiana, but Ivy Tech Columbus also offers an accelerated way to earn your degree in partnership with Muscatatuck Urban Training Center, a national Department of Defense military base.
+Students in this nationally-recognized program live on the base during their training and take advantage of over 300 real-life training structures including the Cybertropolis simulation city.
+** What is the Cyber Academy?
+> Based at an advanced cyber training facility, the Cyber Academy provides students with hands-on experiences and the skills they need to start a cybersecurity career. Students can begin and finish the program in 11 months, preparing them to start a new career in just one year!
 
 ### Header 3
 
